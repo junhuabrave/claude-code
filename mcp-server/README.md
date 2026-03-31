@@ -142,3 +142,4 @@ npm run dev    # Run directly with tsx (no build needed)
 npm run build  # Compile TypeScript to dist/
 npm start      # Run compiled server
 ```
+
